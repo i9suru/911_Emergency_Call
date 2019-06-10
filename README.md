@@ -6,8 +6,8 @@
 ### OUTPUT:CALL-VS-HOUR
 ![alt text](https://github.com/i9suru/911_Emergency_Call/blob/master/2hourly.png )
 ### OUTPUT:EMS_TOP_5_CALLS
-![alt text](https://github.com/i9Csuru/911_Emergency_Call/blob/master/3.png )
+![alt text](https://github.com/i9suru/911_Emergency_Call/blob/master/3.png )
 ### OUTPUT:FIRE_TOP_5_CALLS
-![alt text](https://github.com/i9Csuru/911_Emergency_Call/blob/master/4.png )
+![alt text](https://github.com/i9suru/911_Emergency_Call/blob/master/4.png )
 ### OUTPUT:TRAFFIC_TOP_5_CALLS
-![alt text](https://github.com/i9Csuru/911_Emergency_Call/blob/master/5.png )
+![alt text](https://github.com/i9suru/911_Emergency_Call/blob/master/5.png)
